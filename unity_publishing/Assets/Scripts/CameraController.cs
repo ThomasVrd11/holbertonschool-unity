@@ -23,7 +23,7 @@ public class CameraFollow : MonoBehaviour
 
     void LateUpdate()
     {
-        // If the player is assigned, update the camera's position to maintain the offset
+        // If the player is assigned, update the cameraw's position to maintain the offset
         if (player != null)
         {
             transform.position = player.transform.position + offset;
