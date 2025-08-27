@@ -1,0 +1,19 @@
+# ninja log v5
+22	1742	7699508478444488	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	54ce40ac7376a34e
+29	1753	7699508478474408	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ab0184293ddc6e35
+42	1935	7699508480384296	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	af7a8484341c4893
+15	1781	7699508478854498	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5fa60bab18764501
+2525	2747	7699508488346865	G:/Dev/2024-2025 Holberton/holbertonschool-unity/unity-ar_slingshot_game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4k4c4j2y/obj/arm64-v8a/libgame.so	d16d3d5b71d3de8
+1	2025	7699508481284350	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a6791710aa3064b1
+49	1829	7699508479294381	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e3aa52211601db26
+35	2323	7699508484244308	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f8007c5baf5ca633
+9	2524	7699508486229464	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	75e8120526f8afbd
+28	1213	7707484328825890	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	54ce40ac7376a34e
+10	1241	7707484329115843	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ab0184293ddc6e35
+6	1286	7707484329580002	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	5fa60bab18764501
+24	1311	7707484329831985	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e3aa52211601db26
+32	1442	7707484331149014	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	af7a8484341c4893
+13	1458	7707484331305652	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a6791710aa3064b1
+20	1624	7707484332971179	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f8007c5baf5ca633
+17	1847	7707484335151998	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	75e8120526f8afbd
+1848	2036	7707484336951409	G:/Dev/2024-2025 Holberton/holbertonschool-unity/unity-ar_slingshot_game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4k4c4j2y/obj/arm64-v8a/libgame.so	d16d3d5b71d3de8

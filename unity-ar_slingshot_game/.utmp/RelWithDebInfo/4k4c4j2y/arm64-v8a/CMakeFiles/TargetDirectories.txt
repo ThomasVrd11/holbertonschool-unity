@@ -1,0 +1,5 @@
+G:/Dev/2024-2025 Holberton/holbertonschool-unity/unity-ar_slingshot_game/.utmp/RelWithDebInfo/4k4c4j2y/arm64-v8a/CMakeFiles/edit_cache.dir
+G:/Dev/2024-2025 Holberton/holbertonschool-unity/unity-ar_slingshot_game/.utmp/RelWithDebInfo/4k4c4j2y/arm64-v8a/CMakeFiles/rebuild_cache.dir
+G:/Dev/2024-2025 Holberton/holbertonschool-unity/unity-ar_slingshot_game/.utmp/RelWithDebInfo/4k4c4j2y/arm64-v8a/GameActivity/CMakeFiles/game.dir
+G:/Dev/2024-2025 Holberton/holbertonschool-unity/unity-ar_slingshot_game/.utmp/RelWithDebInfo/4k4c4j2y/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+G:/Dev/2024-2025 Holberton/holbertonschool-unity/unity-ar_slingshot_game/.utmp/RelWithDebInfo/4k4c4j2y/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

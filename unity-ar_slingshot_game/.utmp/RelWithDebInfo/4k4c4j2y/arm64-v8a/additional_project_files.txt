@@ -1,0 +1,17 @@
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+G:\Dev\2024-2025 Holberton\holbertonschool-unity\unity-ar_slingshot_game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

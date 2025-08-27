@@ -1,0 +1,10 @@
+# ninja log v5
+43	1792	7670193176856746	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	11e653c79e5af390
+27	1801	7670193177117549	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	83eab3f5776c154
+58	2080	7670193179951697	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8a30d52125e4f1e3
+50	2097	7670193180032317	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	dbbaaf6e6e5ad0b7
+18	2133	7670193180557685	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b103e575b3e33bd2
+1	2353	7670193182729746	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	133743a0e7edffc3
+36	2593	7670193185180325	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8113d4406cfcc125
+10	2731	7670193186520316	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f358f997db863731
+2732	2923	7670193188300347	G:/Dev/2024-2025 Holberton/holbertonschool-unity/unity_ar_business_card/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5pu4v1fo/obj/arm64-v8a/libgame.so	aa6f2d4dcebb1e96
